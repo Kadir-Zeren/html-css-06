@@ -1,0 +1,24 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  /* background-image: url(./img/netflix-background-image.png); */
+}
+
+#container {
+  width: 1240px;
+  height: 1036px;
+  background-color: rgba(0, 0, 0, 0.3);
+  margin: auto;
+  margin-top: 30px;
+}
+
+#title {
+  color: #ffffff;
+  font-family: "Bowlby One SC", sans-serif;
+  font-size: 50px;
+  letter-spacing: 0.05em;
+}
